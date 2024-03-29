@@ -1,5 +1,5 @@
-.member-2gU6Ar .wrapper-1VLyxH[data-user-id="859547769798656001"]::before,
-.avatar-1HDIsL .wrapper-1VLyxH[data-user-id="859547769798656001"]::before {
+.member_aa4760 .wrapper-1VLyxH[data-user-id="859547769798656001"]::before,
+.avatar__7bd22 .wrapper-1VLyxH[data-user-id="859547769798656001"]::before {
   content: "";
   position: absolute;
   width: 18px;
@@ -13,7 +13,7 @@
   pointer-events: none;
 }
 
-.userPopout-2j1gM4 .avatarWrapper-eenWra[data-user-id="859547769798656001"] + div > .profileBadges-2pItdR::before {
+.userPopout-2j1gM4 .avatarWrapper__0cd44[data-user-id="859547769798656001"] + div > .profileBadges__1f2ab::before {
   content: "";
   position: relative;
   width: 20px;
@@ -23,8 +23,8 @@
   background: url("https://cdn.discordapp.com/emojis/991011089745608734.gif?v=1") center/100% no-repeat;
 }
 
-.member-2gU6Ar .wrapper-1VLyxH[data-user-id="878107994846560298"]::before,
-.avatar-1HDIsL .wrapper-1VLyxH[data-user-id="878107994846560298"]::before {
+.member_aa4760 .wrapper-1VLyxH[data-user-id="878107994846560298"]::before,
+.avatar__7bd22 .wrapper-1VLyxH[data-user-id="878107994846560298"]::before {
   content: "";
   position: absolute;
   width: 18px;
@@ -38,7 +38,7 @@
   pointer-events: none;
 }
 
-.userPopout-2j1gM4 .avatarWrapper-eenWra[data-user-id="878107994846560298"] + div > .profileBadges-2pItdR::before {
+.userPopout-2j1gM4 .avatarWrapper__0cd44[data-user-id="878107994846560298"] + div > .profileBadges__1f2ab::before {
   content: "";
   position: relative;
   width: 20px;
@@ -48,11 +48,11 @@
   background: url("https://cdn.discordapp.com/emojis/991011089745608734.gif?v=1") center/100% no-repeat;
 }
 
-.message-2CShn3[data-author-id="878107994846560298"]> :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
-.channel-1Shao0[data-user-id="878107994846560298"] .overflow-1wOqNV,
-.member-2gU6Ar[data-user-id="878107994846560298"] .username-i5-wv->span,
-.userPopout-2j1gM4[data-user-id="878107994846560298"] .username-3JLfHz,
-.root-8LYsGj[data-user-id="878107994846560298"] .username-3JLfHz {
+.message_ccca67[data-author-id="878107994846560298"]> :not(.repliedMessage__636d2) .username__0b0e7,
+.channel__0aef5[data-user-id="878107994846560298"] .overflow__993fa,
+.member_aa4760[data-user-id="878107994846560298"] .username_ab1e31>span,
+.userPopout-2j1gM4[data-user-id="878107994846560298"] .username__7d629,
+.root-8LYsGj[data-user-id="878107994846560298"] .username__7d629 {
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;
@@ -63,16 +63,16 @@
   background-image: linear-gradient(90deg, rgba(245,0,74,1) 0%, rgba(216,2,69,1) 15%, rgba(186,4,64,1) 30%, rgba(153,6,58,1) 45%, rgba(116,8,52,1) 60%, rgba(92,9,48,1) 75%, rgba(57,10,42,1) 90%, rgba(19,12,36,1) 100%);
 }
 
-/*.message-2CShn3[data-author-id="859547769798656001"]> :not(.repliedMessage-3Z6XBG) .username-h_Y3Us,
-.channel-1Shao0[data-user-id="859547769798656001"] .overflow-1wOqNV,
-.member-2gU6Ar[data-user-id="859547769798656001"] .username-i5-wv->span,
-.userPopout-2j1gM4[data-user-id="859547769798656001"] .username-3JLfHz,
-.root-8LYsGj[data-user-id="859547769798656001"] .username-3JLfHz*/
-.message-2CShn3> :not(.repliedMessage-3Z6XBG) .username-h_Y3Us .avatar-b5OQ1N:has("859547769798656001"),
-.channel-1Shao0 .overflow-1wOqNV .avatar-b5OQ1N:has("859547769798656001"),
-.member-2gU6Ar .username-i5-wv->span .avatar-b5OQ1N:has("859547769798656001"),
-.userPopout-2j1gM4 .username-3JLfHz .avatar-b5OQ1N:has("859547769798656001"),
-.root-8LYsGj .username-3JLfHz .avatar-b5OQ1N:has("859547769798656001") {
+/*.message_ccca67[data-author-id="859547769798656001"]> :not(.repliedMessage__636d2) .username__0b0e7,
+.channel__0aef5[data-user-id="859547769798656001"] .overflow__993fa,
+.member_aa4760[data-user-id="859547769798656001"] .username_ab1e31>span,
+.userPopout-2j1gM4[data-user-id="859547769798656001"] .username__7d629,
+.root-8LYsGj[data-user-id="859547769798656001"] .username__7d629*/
+.message_ccca67> :not(.repliedMessage__636d2) .username__0b0e7 .avatar-b5OQ1N:has("859547769798656001"),
+.channel__0aef5 .overflow__993fa .avatar-b5OQ1N:has("859547769798656001"),
+.member_aa4760 .username_ab1e31>span .avatar-b5OQ1N:has("859547769798656001"),
+.userPopout-2j1gM4 .username__7d629 .avatar-b5OQ1N:has("859547769798656001"),
+.root-8LYsGj .username__7d629 .avatar-b5OQ1N:has("859547769798656001") {
   color: transparent !important;
   font-weight: bold;
   background-size: 300%;

@@ -1,12 +1,12 @@
-@import url("https://celestialreaver.github.io/BetterDiscord/themes/base/badges.css");
-@import url("https://celestialreaver.github.io/BetterDiscord/themes/base/a1337.font.css");
-@import url("https://celestialreaver.github.io/BetterDiscord/themes/base/hljs.css");
+@import url("https://raw.githubusercontent.com/computer-catt/CelestialReaver-BetterDiscord-themes/main/themes/base/badges.css");
+@import url("https://raw.githubusercontent.com/computer-catt/CelestialReaver-BetterDiscord-themes/main/themes/base/a1337.font.css");
+@import url("https://raw.githubusercontent.com/computer-catt/CelestialReaver-BetterDiscord-themes/main/themes/base/hljs.css");
 @import url("https://stickfab.github.io/pc-fluenticons/FluentIcons.css");
 :root {
   --customFont: 'VT323', monospace;
 }
 /*
-.sidebar-nqHbhN .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-item:not(.role-3pGE29)::before,
+.sidebar__02e8d .side-2ur1Qk #bd-settings-sidebar .ui-tab-bar-item:not(.role-3pGE29)::before,
 .side-2ur1Qk .item-3XjbnG:not(.role-3pGE29)::before {
   content: "";
   width: 20px;
@@ -30,8 +30,8 @@ div[aria-label="GUILD_SETTINGS"] .side-2ur1Qk .item-3XjbnG {
 }
 
 /* discord settings
-.sidebar-nqHbhN .side-2ur1Qk[aria-label] .item-3XjbnG:nth-child(2)::before,
-.sidebar-nqHbhN .side-2ur1Qk .item-3XjbnG[aria-controls="my-account-tab" i]::before {
+.sidebar__02e8d .side-2ur1Qk[aria-label] .item-3XjbnG:nth-child(2)::before,
+.sidebar__02e8d .side-2ur1Qk .item-3XjbnG[aria-controls="my-account-tab" i]::before {
   background-image: url("https://limeshark.dev/img/bdi/account.png");
   filter: brightness(0) saturate(100%) invert(75%) sepia(30%) saturate(3589%) hue-rotate(60deg) brightness(122%) contrast(93%);
 }
